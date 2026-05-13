@@ -1,1 +1,1 @@
-This is the repo for Spontaneous Symmetry Breaking and Goldstone Modes for Deep Information Propagation
+This is the repo for Spontaneous Symmetry Breaking and Goldstone Modes for Deep Information Propagation. Code to support the paper will be added here shortly. 
