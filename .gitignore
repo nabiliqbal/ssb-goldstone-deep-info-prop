@@ -1,0 +1,14 @@
+# data & outputs
+data/
+results/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# os / editor
+.DS_Store
+.ipynb_checkpoints/
